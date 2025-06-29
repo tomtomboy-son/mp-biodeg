@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.env
+
+# Conda
+env/
+*.lock
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large or private data
+data/raw/
+data/interim/
+
+# Logs
+logs/
+
+# OS
+.DS_Store
